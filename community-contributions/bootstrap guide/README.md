@@ -13,7 +13,7 @@ apt-get update
 
 Install 7-Zip
 ```
-apt-get install p7zip-rar p7zip-full
+apt-get install p7zip-rar p7zip-full -y
 ```
 Delete blockchain folder
 ```
