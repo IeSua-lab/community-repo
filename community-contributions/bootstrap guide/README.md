@@ -27,7 +27,7 @@ rm -rf /root/.local/share/joystream-node/chains/joy_testnet_5/db/
 
 To do this, you need to install the dependencies
 ```
-apt-get install python3-pip
+apt-get install python3-pip -y
 ```
 ```
 pip install gdown
